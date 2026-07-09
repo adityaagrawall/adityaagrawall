@@ -37,11 +37,11 @@ I am a highly adaptive software developer with a **growth mindset**, dedicated t
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/adityaagrawal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaagrawal&show_icons=true&theme=calm&count_private=true&hide_border=true" alt="Aditya's GitHub stats" />
+  <a href="https://github.com/adityaagrawal1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaagrawal1&show_icons=true&theme=calm&count_private=true&hide_border=true" alt="Aditya's GitHub stats" />
   </a>
-  <a href="https://github.com/adityaagrawal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaagrawal&layout=compact&theme=calm&hide_border=true" alt="Aditya's top languages" />
+  <a href="https://github.com/adityaagrawal1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaagrawal1&layout=compact&theme=calm&hide_border=true" alt="Aditya's top languages" />
   </a>
 </p>
 
@@ -51,14 +51,6 @@ I am a highly adaptive software developer with a **growth mindset**, dedicated t
 
 I am always open to discussing new engineering opportunities, research collaborations, or building interesting products from scratch.
 
-<p align="left">
-  <a href="www.linkedin.com/in/aditya-agrawal-ab5979288" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:18adityamanu2006@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agrawal-ab5979288) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:18adityamanu2006@gmail.com)
 
 
