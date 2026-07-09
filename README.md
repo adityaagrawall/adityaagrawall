@@ -34,19 +34,6 @@ I am a highly adaptive software developer with a **growth mindset**, dedicated t
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/adityaagrawal1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaagrawal1&show_icons=true&theme=calm&count_private=true&hide_border=true" alt="Aditya's GitHub stats" />
-  </a>
-  <a href="https://github.com/adityaagrawal1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaagrawal1&layout=compact&theme=calm&hide_border=true" alt="Aditya's top languages" />
-  </a>
-</p>
-
----
-
 ## 📫 Let's Connect & Collaborate!
 
 I am always open to discussing new engineering opportunities, research collaborations, or building interesting products from scratch.
