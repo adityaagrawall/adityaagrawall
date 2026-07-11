@@ -34,7 +34,7 @@ I am a highly adaptive software developer with a **growth mindset**, dedicated t
 
 ---
 
-## 📫 Let's Connect & Collaborate!!
+## 📫 Let's Connect & Collaborate!
 
 I am always open to discussing new engineering opportunities, research collaborations, or building interesting products from scratch.
 
