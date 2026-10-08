@@ -36,7 +36,7 @@ I am a highly adaptive software developer with a **growth mindset**, dedicated t
 
 ## 📫 Let's Connect & Collaborate!
 
-I am always open to discussing new engineering opportunities, research collaborations, or building interesting products from scratch.
+I am always open to discussing new engineering opportunities, research  collaborations, or building interesting products from scratch.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-agrawal-ab5979288) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:18adityamanu2006@gmail.com)
 
